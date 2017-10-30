@@ -12,4 +12,6 @@ El presente repositorio contiene el material del taller de maquetación de proye
 ### Extra
 Si deseas aprender más sobre Git + GitHub te recomendamos el siguiente material:
 1. [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-2. [Git Tutorial](https://try.github.io/levels/1/challenges/1) 
+2. [Git Tutorial](https://try.github.io/levels/1/challenges/1)
+
+## Fotos del evento 

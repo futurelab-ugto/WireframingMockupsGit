@@ -20,4 +20,4 @@ Si deseas aprender más sobre Git + GitHub te recomendamos el siguiente material
 
 ![](https://github.com/futurelab-ugto/WireframingMockupsGit/blob/master/free_stickers.jpg)
 
-![](https://github.com/futurelab-ugto/WireframingMockupsGit/blob/master/free_stickers.jpg) 
+![](https://github.com/futurelab-ugto/WireframingMockupsGit/blob/master/rod.jpg) 

@@ -14,4 +14,10 @@ Si deseas aprender más sobre Git + GitHub te recomendamos el siguiente material
 1. [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 2. [Git Tutorial](https://try.github.io/levels/1/challenges/1)
 
-## Fotos del evento 
+## Fotos del evento
+
+![](https://github.com/futurelab-ugto/WireframingMockupsGit/blob/master/grupo.jpg)
+
+![](https://github.com/futurelab-ugto/WireframingMockupsGit/blob/master/free_stickers.jpg)
+
+![](https://github.com/futurelab-ugto/WireframingMockupsGit/blob/master/rod.jpg) 
